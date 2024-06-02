@@ -12,6 +12,10 @@
   padding-top: 8em;
   border-radius: 100%;
 }
+.spacing {
+  height: 1em;
+  width: 100%;
+}
 .cart {
   float: right;
 }
@@ -22,7 +26,7 @@
   float: right;
 }
 .prev,.next {
-  margin: 0.5em;
+  margin: 0.5em 1em;
   padding: 0.5em;
   transition: all 0.2s;
   border-radius: 0.25em;

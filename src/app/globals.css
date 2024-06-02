@@ -1,9 +1,14 @@
 body {
-  min-width: 500px;
+  min-width: 550px;
 }
 
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+}
+@media screen and (max-width: 900px) {
+  body {
+    font-size: 1.5rem;
+  }
 }

@@ -10,17 +10,11 @@
   text-align: left;
   justify-content: space-between;
   cursor: pointer;
-  transition: all 0.2s;
+  transition: border 0.2s, background-color 0.2s;
   user-select: none;
 }
 .cart:hover {
   background-color: rgb(234, 234, 234);
-}
-.cart:active {
-  border-color: cadetblue;
-  border-width: calc(1em + 1px);
-  margin: -1.5em;
-  border-radius: 1.25em;
 }
 .cart-icon {
   width: 2em;

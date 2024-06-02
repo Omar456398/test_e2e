@@ -1,10 +1,11 @@
 "use client";
 import styles from "./renderer.module.css";
-import { itemType } from "../types";
-import { useEffect, useState } from "react";
+import { SortByEnum, itemType } from "../types";
+import { useEffect, useMemo, useState } from "react";
 import Item from "./item";
 import CartIcon from "./cartIcon";
 import { useRouter, usePathname, useSearchParams } from "next/navigation";
+import SearchBar from "./searchBar";
 
 export default function PageRenderer({
   data,
@@ -18,6 +19,29 @@ export default function PageRenderer({
   const route = useRouter();
   const pathName = usePathname();
   const query = useSearchParams();
+  const dataFiltered = useMemo(
+    () =>
+      data
+        .filter(
+          (item) =>
+            `${item.title} ${item.description}`.includes(
+              query.get("q") || ""
+            ) &&
+            item.price >= (Number(query.get("min")) || 0) &&
+            item.price <= (Number(query.get("max")) || Infinity)
+        )
+        .sort((a, b) =>
+          Number(query.get("sort")) === SortByEnum.none
+            ? Number(a.id) - Number(b.id)
+            : Number(query.get("sort")) === SortByEnum.price
+            ? a.price - b.price
+            : a.title > b.title
+            ? 1
+            : -1
+        ),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [query.get("q"), query.get("sort"), query.get("min"), query.get("max")]
+  );
   const updateQueryString = (newQueryParams: { [key: string]: string }) => {
     const url = new URL(window.location.href);
     Object.keys(newQueryParams).forEach((key) => {
@@ -45,14 +69,16 @@ export default function PageRenderer({
           <div className={styles.cart}>
             <CartIcon data={data} refreshToggle={refreshToggle} />
           </div>
+          <div className={styles.spacing} />
+          <SearchBar data={data} updateQueryString={updateQueryString} />
         </div>
       </div>
-      {data.slice(startElement, startElement + 20).map((item) => (
+      {dataFiltered.slice(startElement, startElement + 20).map((item) => (
         <div className={styles.item} key={item.id}>
           <Item item={item} setRefreshToggle={setRefreshToggle} />
         </div>
       ))}
-      <div>
+      {dataFiltered.length ? <div>
         <div
           className={styles.prev}
           onClick={() =>
@@ -63,11 +89,11 @@ export default function PageRenderer({
           className={styles.next}
           onClick={() =>
             updateQueryString({
-              p: String(Math.min(pageNum + 1, Math.ceil(data.length / 20))),
+              p: String(Math.min(pageNum + 1, Math.ceil(dataFiltered.length / 20))),
             })
           }
         >{`>`}</div>
-      </div>
+      </div>: null}
     </>
   );
 }
