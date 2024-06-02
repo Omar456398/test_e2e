@@ -3,7 +3,7 @@ import styles from "./renderer.module.css";
 import { SortByEnum, itemType } from "../types";
 import { useEffect, useMemo, useState } from "react";
 import Item from "./item";
-import CartIcon from "./cartIcon";
+import CartButton from "./cartButton";
 import { useRouter, usePathname, useSearchParams } from "next/navigation";
 import SearchBar from "./searchBar";
 
@@ -67,7 +67,7 @@ export default function PageRenderer({
         <div className={styles.header}>
           Items List
           <div className={styles.cart}>
-            <CartIcon data={data} refreshToggle={refreshToggle} />
+            <CartButton data={data} refreshToggle={refreshToggle} />
           </div>
           <div className={styles.spacing} />
           <SearchBar data={data} updateQueryString={updateQueryString} />

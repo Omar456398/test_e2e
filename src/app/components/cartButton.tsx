@@ -1,11 +1,13 @@
 'use client';
 import { useEffect, useState } from "react";
 import { itemType } from "../types";
-import styles from "./cartIcon.module.css";
+import styles from "./cartButton.module.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
+import { useRouter } from "next/navigation";
 
 export default function CartIcon({ data, refreshToggle }: { data: itemType[], refreshToggle: boolean }) {
+  const route = useRouter()
   const cartInfoLocal =
     typeof localStorage !== "undefined"
       ? localStorage.getItem("cart") || "{}"
@@ -30,7 +32,7 @@ export default function CartIcon({ data, refreshToggle }: { data: itemType[], re
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [cartInfoLocal]);
-  return <button className={styles.cart}>
+  return <button className={styles.cart} onClick={() => route.push('/cart')}>
     <div>
         <p>{cartInfo.totalCount} items</p>
         <p>{cartInfo.totalPrice} $</p>
