@@ -1,0 +1,1204 @@
+{
+  "items": [
+    {
+      "title": "Smartphone X12",
+      "description": "High-resolution display, 128GB storage, 5G connectivity",
+      "price": 699,
+      "id": "1"
+    },
+    {
+      "title": "Bluetooth Headphones",
+      "description": "Noise-cancelling, 20-hour battery life",
+      "price": 199,
+      "id": "2"
+    },
+    {
+      "title": "4K Ultra HD TV",
+      "description": "55-inch screen, HDR10, Smart TV features",
+      "price": 599,
+      "id": "3"
+    },
+    {
+      "title": "Gaming Laptop",
+      "description": "Intel i7, 16GB RAM, 1TB SSD, RTX 3060",
+      "price": 1299,
+      "id": "4"
+    },
+    {
+      "title": "Wireless Earbuds",
+      "description": "True wireless, touch controls, waterproof",
+      "price": 99,
+      "id": "5"
+    },
+    {
+      "title": "Smartwatch Series 6",
+      "description": "Heart rate monitor, GPS, 48-hour battery",
+      "price": 399,
+      "id": "6"
+    },
+    {
+      "title": "Tablet Pro 11",
+      "description": "11-inch display, 256GB storage, Wi-Fi + Cellular",
+      "price": 799,
+      "id": "7"
+    },
+    {
+      "title": "Portable Bluetooth Speaker",
+      "description": "Waterproof, 12-hour battery, bass boost",
+      "price": 149,
+      "id": "8"
+    },
+    {
+      "title": "Home Security Camera",
+      "description": "1080p resolution, night vision, motion detection",
+      "price": 89,
+      "id": "9"
+    },
+    {
+      "title": "Smart Light Bulb",
+      "description": "Dimmable, color-changing, Wi-Fi enabled",
+      "price": 29,
+      "id": "10"
+    },
+    {
+      "title": "Noise Cancelling Headphones",
+      "description": "Over-ear, 30-hour battery life",
+      "price": 249,
+      "id": "11"
+    },
+    {
+      "title": "Electric Toothbrush",
+      "description": "Sonic technology, 5 modes, 2-minute timer",
+      "price": 59,
+      "id": "12"
+    },
+    {
+      "title": "Wireless Charger",
+      "description": "Fast charging, 10W output, sleek design",
+      "price": 39,
+      "id": "13"
+    },
+    {
+      "title": "Smart Thermostat",
+      "description": "Wi-Fi connected, energy-saving, voice control",
+      "price": 199,
+      "id": "14"
+    },
+    {
+      "title": "Robot Vacuum",
+      "description": "Self-charging, multi-surface cleaning, app control",
+      "price": 399,
+      "id": "15"
+    },
+    {
+      "title": "Fitness Tracker",
+      "description": "Heart rate monitor, sleep tracking, waterproof",
+      "price": 79,
+      "id": "16"
+    },
+    {
+      "title": "Digital Camera",
+      "description": "24MP, 4K video recording, interchangeable lens",
+      "price": 899,
+      "id": "17"
+    },
+    {
+      "title": "E-Reader",
+      "description": "7-inch display, adjustable light, 32GB storage",
+      "price": 129,
+      "id": "18"
+    },
+    {
+      "title": "Wireless Gaming Mouse",
+      "description": "Ergonomic design, RGB lighting, high DPI",
+      "price": 89,
+      "id": "19"
+    },
+    {
+      "title": "Smart Doorbell",
+      "description": "Video recording, two-way audio, motion alerts",
+      "price": 149,
+      "id": "20"
+    },
+    {
+      "title": "Laptop Cooling Pad",
+      "description": "Adjustable height, USB powered, quiet fans",
+      "price": 29,
+      "id": "21"
+    },
+    {
+      "title": "VR Headset",
+      "description": "High-resolution display, adjustable lenses, lightweight",
+      "price": 299,
+      "id": "22"
+    },
+    {
+      "title": "Portable Power Bank",
+      "description": "20,000mAh capacity, dual USB ports, fast charging",
+      "price": 49,
+      "id": "23"
+    },
+    {
+      "title": "Smart Plug",
+      "description": "Wi-Fi enabled, voice control, energy monitoring",
+      "price": 19,
+      "id": "24"
+    },
+    {
+      "title": "Action Camera",
+      "description": "4K video, waterproof, wide-angle lens",
+      "price": 199,
+      "id": "25"
+    },
+    {
+      "title": "External Hard Drive",
+      "description": "2TB storage, USB 3.0, compact design",
+      "price": 89,
+      "id": "26"
+    },
+    {
+      "title": "Wireless Keyboard",
+      "description": "Bluetooth connectivity, backlit keys, rechargeable",
+      "price": 79,
+      "id": "27"
+    },
+    {
+      "title": "Smart Scale",
+      "description": "Body composition analysis, app integration, sleek design",
+      "price": 59,
+      "id": "28"
+    },
+    {
+      "title": "Streaming Media Player",
+      "description": "4K HDR support, voice remote, app store",
+      "price": 49,
+      "id": "29"
+    },
+    {
+      "title": "Electric Scooter",
+      "description": "15-mile range, foldable, 250W motor",
+      "price": 399,
+      "id": "30"
+    },
+    {
+      "title": "Smart Lock",
+      "description": "Keyless entry, Wi-Fi connected, auto-lock feature",
+      "price": 249,
+      "id": "31"
+    },
+    {
+      "title": "Drone",
+      "description": "4K camera, GPS, 30-minute flight time",
+      "price": 499,
+      "id": "32"
+    },
+    {
+      "title": "Smart Glasses",
+      "description": "Built-in speakers, touch control, UV protection",
+      "price": 199,
+      "id": "33"
+    },
+    {
+      "title": "Car Dash Cam",
+      "description": "1080p resolution, wide-angle lens, loop recording",
+      "price": 79,
+      "id": "34"
+    },
+    {
+      "title": "Wireless Charger Stand",
+      "description": "Fast charging, adjustable angle, sleek design",
+      "price": 49,
+      "id": "35"
+    },
+    {
+      "title": "Gaming Console",
+      "description": "8K support, 1TB SSD, backwards compatibility",
+      "price": 499,
+      "id": "36"
+    },
+    {
+      "title": "Smart Baby Monitor",
+      "description": "HD video, two-way audio, night vision",
+      "price": 149,
+      "id": "37"
+    },
+    {
+      "title": "Noise Machine",
+      "description": "White noise, nature sounds, portable",
+      "price": 49,
+      "id": "38"
+    },
+    {
+      "title": "Bluetooth Tracker",
+      "description": "Item locator, app integration, replaceable battery",
+      "price": 29,
+      "id": "39"
+    },
+    {
+      "title": "Smart Coffee Maker",
+      "description": "Wi-Fi connected, programmable, voice control",
+      "price": 199,
+      "id": "40"
+    },
+    {
+      "title": "Electric Kettle",
+      "description": "Temperature control, fast boiling, stainless steel",
+      "price": 59,
+      "id": "41"
+    },
+    {
+      "title": "Portable Projector",
+      "description": "1080p resolution, HDMI input, built-in speaker",
+      "price": 299,
+      "id": "42"
+    },
+    {
+      "title": "Digital Photo Frame",
+      "description": "Wi-Fi enabled, 10-inch display, cloud storage",
+      "price": 149,
+      "id": "43"
+    },
+    {
+      "title": "Smart Air Purifier",
+      "description": "HEPA filter, Wi-Fi connected, voice control",
+      "price": 199,
+      "id": "44"
+    },
+    {
+      "title": "Portable SSD",
+      "description": "1TB storage, USB-C, rugged design",
+      "price": 149,
+      "id": "45"
+    },
+    {
+      "title": "Bluetooth Turntable",
+      "description": "Built-in speakers, USB output, vintage design",
+      "price": 129,
+      "id": "46"
+    },
+    {
+      "title": "Smart Light Switch",
+      "description": "Wi-Fi enabled, voice control, dimmable",
+      "price": 49,
+      "id": "47"
+    },
+    {
+      "title": "Electric Bike",
+      "description": "20-mile range, pedal assist, foldable",
+      "price": 799,
+      "id": "48"
+    },
+    {
+      "title": "Smart Smoke Detector",
+      "description": "Wi-Fi connected, voice alerts, battery backup",
+      "price": 129,
+      "id": "49"
+    },
+    {
+      "title": "3D Printer",
+      "description": "High precision, large build volume, easy setup",
+      "price": 599,
+      "id": "50"
+    },
+    {
+      "title": "Smart Remote",
+      "description": "Universal control, voice commands, app integration",
+      "price": 99,
+      "id": "51"
+    },
+    {
+      "title": "Digital Alarm Clock",
+      "description": "Sunrise simulation, FM radio, multiple alarms",
+      "price": 39,
+      "id": "52"
+    },
+    {
+      "title": "Home Theater System",
+      "description": "5.1 surround sound, Bluetooth, HDMI input",
+      "price": 399,
+      "id": "53"
+    },
+    {
+      "title": "Smart Water Bottle",
+      "description": "Hydration tracking, LED reminders, app integration",
+      "price": 59,
+      "id": "54"
+    },
+    {
+      "title": "Portable Air Conditioner",
+      "description": "10,000 BTU, remote control, energy efficient",
+      "price": 299,
+      "id": "55"
+    },
+    {
+      "title": "Smart Refrigerator",
+      "description": "Wi-Fi connected, touch screen, voice control",
+      "price": 1499,
+      "id": "56"
+    },
+    {
+      "title": "Digital Drawing Tablet",
+      "description": "Pressure-sensitive, USB-C, pen included",
+      "price": 299,
+      "id": "57"
+    },
+    {
+      "title": "Smart Ceiling Fan",
+      "description": "Wi-Fi connected, voice control, reversible motor",
+      "price": 199,
+      "id": "58"
+    },
+    {
+      "title": "Wireless Security System",
+      "description": "Battery-powered, motion detection, app alerts",
+      "price": 299,
+      "id": "59"
+    },
+    {
+      "title": "Electric Shaver",
+      "description": "Wet & dry use, cordless, fast charging",
+      "price": 129,
+      "id": "60"
+    },
+    {
+      "title": "Smart Sous Vide Cooker",
+      "description": "Wi-Fi connected, precision cooking, app control",
+      "price": 179,
+      "id": "61"
+    },
+    {
+      "title": "Bluetooth Speaker Lamp",
+      "description": "Dimmable, touch control, portable",
+      "price": 69,
+      "id": "62"
+    },
+    {
+      "title": "Smart Air Fryer",
+      "description": "Wi-Fi connected, programmable, oil-less frying",
+      "price": 149,
+      "id": "63"
+    },
+    {
+      "title": "Portable Monitor",
+      "description": "15.6-inch display, USB-C, slim design",
+      "price": 249,
+      "id": "64"
+    },
+    {
+      "title": "Smart Pet Feeder",
+      "description": "Wi-Fi connected, automatic feeding, app control",
+      "price": 149,
+      "id": "65"
+    },
+    {
+      "title": "Electric Pressure Cooker",
+      "description": "10-in-1 functions, stainless steel, programmable",
+      "price": 99,
+      "id": "66"
+    },
+    {
+      "title": "Smart Bike Lock",
+      "description": "Bluetooth connected, keyless entry, app control",
+      "price": 79,
+      "id": "67"
+    },
+    {
+      "title": "Digital Weather Station",
+      "description": "Wi-Fi connected, indoor/outdoor sensors, color display",
+      "price": 99,
+      "id": "68"
+    },
+    {
+      "title": "Smart Irrigation Controller",
+      "description": "Wi-Fi connected, weather-based scheduling, app control",
+      "price": 129,
+      "id": "69"
+    },
+    {
+      "title": "Portable Blender",
+      "description": "USB rechargeable, BPA-free, travel-friendly",
+      "price": 39,
+      "id": "70"
+    },
+    {
+      "title": "Smart Garage Door Opener",
+      "description": "Wi-Fi connected, voice control, app alerts",
+      "price": 199,
+      "id": "71"
+    },
+    {
+      "title": "Electric Wine Opener",
+      "description": "Rechargeable, foil cutter included, stainless steel",
+      "price": 29,
+      "id": "72"
+    },
+    {
+      "title": "Wireless Meat Thermometer",
+      "description": "Bluetooth connected, dual probes, app control",
+      "price": 89,
+      "id": "73"
+    },
+    {
+      "title": "Digital Piano",
+      "description": "88 keys, weighted action, built-in speakers",
+      "price": 499,
+      "id": "74"
+    },
+    {
+      "title": "Smart Watch for Kids",
+      "description": "GPS tracking, two-way calling, SOS button",
+      "price": 59,
+      "id": "75"
+    },
+    {
+      "title": "Smart Pet Camera",
+      "description": "Treat dispenser, two-way audio, night vision",
+      "price": 199,
+      "id": "76"
+    },
+    {
+      "title": "Electric Standing Desk",
+      "description": "Height adjustable, programmable settings, sleek design",
+      "price": 499,
+      "id": "77"
+    },
+    {
+      "title": "Smart Light Strip",
+      "description": "Wi-Fi connected, color-changing, voice control",
+      "price": 39,
+      "id": "78"
+    },
+    {
+      "title": "Portable Jump Starter",
+      "description": "1000A peak, power bank, LED flashlight",
+      "price": 79,
+      "id": "79"
+    },
+    {
+      "title": "Smart Water Leak Detector",
+      "description": "Wi-Fi connected, app alerts, battery powered",
+      "price": 49,
+      "id": "80"
+    },
+    {
+      "title": "Electric Blanket",
+      "description": "Dual control, washable, multiple heat settings",
+      "price": 99,
+      "id": "81"
+    },
+    {
+      "title": "Smart Indoor Garden",
+      "description": "Wi-Fi connected, LED grow lights, app control",
+      "price": 199,
+      "id": "82"
+    },
+    {
+      "title": "Digital Voice Recorder",
+      "description": "16GB storage, noise reduction, USB rechargeable",
+      "price": 49,
+      "id": "83"
+    },
+    {
+      "title": "Smart Diffuser",
+      "description": "Wi-Fi connected, programmable, voice control",
+      "price": 59,
+      "id": "84"
+    },
+    {
+      "title": "Electric Grill",
+      "description": "Smokeless, non-stick, adjustable temperature",
+      "price": 129,
+      "id": "85"
+    },
+    {
+      "title": "Smart Weight Scale",
+      "description": "Body composition analysis, Wi-Fi connected, app integration",
+      "price": 69,
+      "id": "86"
+    },
+    {
+      "title": "Portable Photo Printer",
+      "description": "Bluetooth connected, compact size, instant prints",
+      "price": 129,
+      "id": "87"
+    },
+    {
+      "title": "Smart Window Shades",
+      "description": "Motorized, Wi-Fi connected, voice control",
+      "price": 299,
+      "id": "88"
+    },
+    {
+      "title": "Electric Can Opener",
+      "description": "Hands-free, smooth edge, battery operated",
+      "price": 29,
+      "id": "89"
+    },
+    {
+      "title": "Smart Compost Bin",
+      "description": "Wi-Fi connected, odor control, app alerts",
+      "price": 199,
+      "id": "90"
+    },
+    {
+      "title": "Digital Luggage Scale",
+      "description": "Portable, backlit display, tare function",
+      "price": 19,
+      "id": "91"
+    },
+    {
+      "title": "Smart Sprinkler System",
+      "description": "Wi-Fi connected, weather-based scheduling, app control",
+      "price": 149,
+      "id": "92"
+    },
+    {
+      "title": "Electric Heated Mattress Pad",
+      "description": "Dual control, washable, multiple heat settings",
+      "price": 79,
+      "id": "93"
+    },
+    {
+      "title": "Smart Meat Thermometer",
+      "description": "Wi-Fi connected dual probes, app control",
+      "price": 99,
+      "id": "94"
+    },
+    {
+      "title": "Digital Photo Album",
+      "description": "Wi-Fi connected, touch screen, cloud storage",
+      "price": 179,
+      "id": "95"
+    },
+    {
+      "title": "Smart Tennis Sensor",
+      "description": "Bluetooth connected, swing analysis, app integration",
+      "price": 99,
+      "id": "96"
+    },
+    {
+      "title": "Electric Foot Massager",
+      "description": "Shiatsu massage, heat function, adjustable intensity",
+      "price": 129,
+      "id": "97"
+    },
+    {
+      "title": "Smart Key Finder",
+      "description": "Bluetooth connected, app integration, replaceable battery",
+      "price": 19,
+      "id": "98"
+    },
+    {
+      "title": "Digital Microscope",
+      "description": "USB connected, adjustable magnification, built-in LED",
+      "price": 59,
+      "id": "99"
+    },
+    {
+      "title": "Smart Fish Tank",
+      "description": "Wi-Fi connected, automatic feeder, app control",
+      "price": 149,
+      "id": "100"
+    },
+    {
+      "title": "Electric Heated Blanket",
+      "description": "Dual control, washable, multiple heat settings",
+      "price": 99,
+      "id": "101"
+    },
+    {
+      "title": "Smart Car Charger",
+      "description": "Bluetooth connected, dual USB ports, app integration",
+      "price": 29,
+      "id": "102"
+    },
+    {
+      "title": "Digital Air Fryer Oven",
+      "description": "10-in-1 functions, touch screen, stainless steel",
+      "price": 179,
+      "id": "103"
+    },
+    {
+      "title": "Smart Plant Sensor",
+      "description": "Bluetooth connected, soil moisture monitor, app integration",
+      "price": 39,
+      "id": "104"
+    },
+    {
+      "title": "Electric Heated Gloves",
+      "description": "Rechargeable, waterproof, multiple heat settings",
+      "price": 99,
+      "id": "105"
+    },
+    {
+      "title": "Smart Home Gym",
+      "description": "Wi-Fi connected, resistance training, app integration",
+      "price": 1499,
+      "id": "106"
+    },
+    {
+      "title": "Digital Meat Slicer",
+      "description": "Adjustable thickness, stainless steel, easy clean",
+      "price": 79,
+      "id": "107"
+    },
+    {
+      "title": "Smart Water Bottle",
+      "description": "Hydration tracking, LED reminders, app integration",
+      "price": 59,
+      "id": "108"
+    },
+    {
+      "title": "Electric Toothbrush",
+      "description": "Sonic technology, 5 modes, 2-minute timer",
+      "price": 59,
+      "id": "109"
+    },
+    {
+      "title": "Smart Garage Door Opener",
+      "description": "Wi-Fi connected, voice control, app alerts",
+      "price": 199,
+      "id": "110"
+    },
+    {
+      "title": "Digital Air Fryer Oven",
+      "description": "10-in-1 functions, touch screen, stainless steel",
+      "price": 179,
+      "id": "111"
+    },
+    {
+      "title": "Smart Pet Feeder",
+      "description": "Wi-Fi connected, automatic feeding, app control",
+      "price": 149,
+      "id": "112"
+    },
+    {
+      "title": "Electric Kettle",
+      "description": "Temperature control, fast boiling, stainless steel",
+      "price": 59,
+      "id": "113"
+    },
+    {
+      "title": "Smart Light Switch",
+      "description": "Wi-Fi enabled, voice control, dimmable",
+      "price": 49,
+      "id": "114"
+    },
+    {
+      "title": "Digital Voice Recorder",
+      "description": "16GB storage, noise reduction, USB rechargeable",
+      "price": 49,
+      "id": "115"
+    },
+    {
+      "title": "Smart Glasses",
+      "description": "Built-in speakers, touch control, UV protection",
+      "price": 199,
+      "id": "116"
+    },
+    {
+      "title": "Electric Scooter",
+      "description": "15-mile range, foldable, 250W motor",
+      "price": 399,
+      "id": "117"
+    },
+    {
+      "title": "Smart Indoor Garden",
+      "description": "Wi-Fi connected, LED grow lights, app control",
+      "price": 199,
+      "id": "118"
+    },
+    {
+      "title": "Digital Drawing Tablet",
+      "description": "Pressure-sensitive, USB-C, pen included",
+      "price": 299,
+      "id": "119"
+    },
+    {
+      "title": "Smart Coffee Maker",
+      "description": "Wi-Fi connected, programmable, voice control",
+      "price": 199,
+      "id": "120"
+    },
+    {
+      "title": "Electric Pressure Cooker",
+      "description": "10-in-1 functions, stainless steel, programmable",
+      "price": 99,
+      "id": "121"
+    },
+    {
+      "title": "Smart Air Purifier",
+      "description": "HEPA filter, Wi-Fi connected, voice control",
+      "price": 199,
+      "id": "122"
+    },
+    {
+      "title": "Digital Piano",
+      "description": "88 keys, weighted action, built-in speakers",
+      "price": 499,
+      "id": "123"
+    },
+    {
+      "title": "Smart Refrigerator",
+      "description": "Wi-Fi connected, touch screen, voice control",
+      "price": 1499,
+      "id": "124"
+    },
+    {
+      "title": "Electric Shaver",
+      "description": "Wet & dry use, cordless, fast charging",
+      "price": 129,
+      "id": "125"
+    },
+    {
+      "title": "Smart Water Leak Detector",
+      "description": "Wi-Fi connected, app alerts, battery powered",
+      "price": 49,
+      "id": "126"
+    },
+    {
+      "title": "Digital Photo Frame",
+      "description": "Wi-Fi enabled, 10-inch display, cloud storage",
+      "price": 149,
+      "id": "127"
+    },
+    {
+      "title": "Smart Plug",
+      "description": "Wi-Fi enabled, voice control, energy monitoring",
+      "price": 19,
+      "id": "128"
+    },
+    {
+      "title": "Electric Heated Mattress Pad",
+      "description": "Dual control, washable, multiple heat settings",
+      "price": 79,
+      "id": "129"
+    },
+    {
+      "title": "Smart Fish Tank",
+      "description": "Wi-Fi connected, automatic feeder, app control",
+      "price": 149,
+      "id": "130"
+    },
+    {
+      "title": "Digital Microscope",
+      "description": "USB connected, adjustable magnification, built-in LED",
+      "price": 59,
+      "id": "131"
+    },
+    {
+      "title": "Smart Water Bottle",
+      "description": "Hydration tracking, LED reminders, app integration",
+      "price": 59,
+      "id": "132"
+    },
+    {
+      "title": "Electric Heated Blanket",
+      "description": "Dual control, washable, multiple heat settings",
+      "price": 99,
+      "id": "133"
+    },
+    {
+      "title": "Smart Car Charger",
+      "description": "Bluetooth connected, dual USB ports, app integration",
+      "price": 29,
+      "id": "134"
+    },
+    {
+      "title": "Digital Air Fryer Oven",
+      "description": "10-in-1 functions, touch screen, stainless steel",
+      "price": 179,
+      "id": "135"
+    },
+    {
+      "title": "Smart Plant Sensor",
+      "description": "Bluetooth connected, soil moisture monitor, app integration",
+      "price": 39,
+      "id": "136"
+    },
+    {
+      "title": "Electric Heated Gloves",
+      "description": "Rechargeable, waterproof, multiple heat settings",
+      "price": 99,
+      "id": "137"
+    },
+    {
+      "title": "Smart Home Gym",
+      "description": "Wi-Fi connected, resistance training, app integration",
+      "price": 1499,
+      "id": "138"
+    },
+    {
+      "title": "Digital Meat Slicer",
+      "description": "Adjustable thickness, stainless steel, easy clean",
+      "price": 79,
+      "id": "139"
+    },
+    {
+      "title": "Smart Tennis Sensor",
+      "description": "Bluetooth connected, swing analysis, app integration",
+      "price": 99,
+      "id": "140"
+    },
+    {
+      "title": "Electric Foot Massager",
+      "description": "Shiatsu massage, heat function, adjustable intensity",
+      "price": 129,
+      "id": "141"
+    },
+    {
+      "title": "Smart Key Finder",
+      "description": "Bluetooth connected, app integration, replaceable battery",
+      "price": 19,
+      "id": "142"
+    },
+    {
+      "title": "Portable Blender",
+      "description": "USB rechargeable, BPA-free, travel-friendly",
+      "price": 39,
+      "id": "143"
+    },
+    {
+      "title": "Smart Doorbell",
+      "description": "Video recording, two-way audio, motion alerts",
+      "price": 149,
+      "id": "144"
+    },
+    {
+      "title": "Portable Power Bank",
+      "description": "20,000mAh capacity, dual USB ports, fast charging",
+      "price": 49,
+      "id": "145"
+    },
+    {
+      "title": "Smart Glasses",
+      "description": "Built-in speakers, touch control, UV protection",
+      "price": 199,
+      "id": "146"
+    },
+    {
+      "title": "Car Dash Cam",
+      "description": "1080p resolution, wide-angle lens, loop recording",
+      "price": 79,
+      "id": "147"
+    },
+    {
+      "title": "Wireless Charger Stand",
+      "description": "Fast charging, adjustable angle, sleek design",
+      "price": 49,
+      "id": "148"
+    },
+    {
+      "title": "Electric Bike",
+      "description": "20-mile range, pedal assist, foldable",
+      "price": 799,
+      "id": "149"
+    },
+    {
+      "title": "Smart Smoke Detector",
+      "description": "Wi-Fi connected, voice alerts, battery backup",
+      "price": 129,
+      "id": "150"
+    },
+    {
+      "title": "3D Printer",
+      "description": "High precision, large build volume, easy setup",
+      "price": 599,
+      "id": "151"
+    },
+    {
+      "title": "Smart Remote",
+      "description": "Universal control, voice commands, app integration",
+      "price": 99,
+      "id": "152"
+    },
+    {
+      "title": "Electric Heated Gloves",
+      "description": "Rechargeable, waterproof, multiple heat settings",
+      "price": 99,
+      "id": "153"
+    },
+    {
+      "title": "Smart Home Gym",
+      "description": "Wi-Fi connected, resistance training, app integration",
+      "price": 1499,
+      "id": "154"
+    },
+    {
+      "title": "Digital Meat Slicer",
+      "description": "Adjustable thickness, stainless steel, easy clean",
+      "price": 79,
+      "id": "155"
+    },
+    {
+      "title": "Smart Tennis Sensor",
+      "description": "Bluetooth connected, swing analysis, app integration",
+      "price": 99,
+      "id": "156"
+    },
+    {
+      "title": "Electric Foot Massager",
+      "description": "Shiatsu massage, heat function, adjustable intensity",
+      "price": 129,
+      "id": "157"
+    },
+    {
+      "title": "Smart Key Finder",
+      "description": "Bluetooth connected, app integration, replaceable battery",
+      "price": 19,
+      "id": "158"
+    },
+    {
+      "title": "Digital Microscope",
+      "description": "USB connected, adjustable magnification, built-in LED",
+      "price": 59,
+      "id": "159"
+    },
+    {
+      "title": "Smart Fish Tank",
+      "description": "Wi-Fi connected, automatic feeder, app control",
+      "price": 149,
+      "id": "160"
+    },
+    {
+      "title": "Digital Voice Recorder",
+      "description": "16GB storage, noise reduction, USB rechargeable",
+      "price": 49,
+      "id": "161"
+    },
+    {
+      "title": "Smart Light Switch",
+      "description": "Wi-Fi enabled, voice control, dimmable",
+      "price": 49,
+      "id": "162"
+    },
+    {
+      "title": "Electric Pressure Cooker",
+      "description": "10-in-1 functions, stainless steel, programmable",
+      "price": 99,
+      "id": "163"
+    },
+    {
+      "title": "Smart Coffee Maker",
+      "description": "Wi-Fi connected, programmable, voice control",
+      "price": 199,
+      "id": "164"
+    },
+    {
+      "title": "Digital Drawing Tablet",
+      "description": "Pressure-sensitive, USB-C, pen included",
+      "price": 299,
+      "id": "165"
+    },
+    {
+      "title": "Smart Indoor Garden",
+      "description": "Wi-Fi connected, LED grow lights, app control",
+      "price": 199,
+      "id": "166"
+    },
+    {
+      "title": "Electric Scooter",
+      "description": "15-mile range, foldable, 250W motor",
+      "price": 399,
+      "id": "167"
+    },
+    {
+      "title": "Smart Glasses",
+      "description": "Built-in speakers, touch control, UV protection",
+      "price": 199,
+      "id": "168"
+    },
+    {
+      "title": "Digital Piano",
+      "description": "88 keys, weighted action, built-in speakers",
+      "price": 499,
+      "id": "169"
+    },
+    {
+      "title": "Smart Air Purifier",
+      "description": "HEPA filter, Wi-Fi connected, voice control",
+      "price": 199,
+      "id": "170"
+    },
+    {
+      "title": "Electric Kettle",
+      "description": "Temperature control, fast boiling, stainless steel",
+      "price": 59,
+      "id": "171"
+    },
+    {
+      "title": "Smart Pet Feeder",
+      "description": "Wi-Fi connected, automatic feeding, app control",
+      "price": 149,
+      "id": "172"
+    },
+    {
+      "title": "Digital Air Fryer Oven",
+      "description": "10-in-1 functions, touch screen, stainless steel",
+      "price": 179,
+      "id": "173"
+    },
+    {
+      "title": "Smart Water Leak Detector",
+      "description": "Wi-Fi connected, app alerts, battery powered",
+      "price": 49,
+      "id": "174"
+    },
+    {
+      "title": "Electric Shaver",
+      "description": "Wet & dry use, cordless, fast charging",
+      "price": 129,
+      "id": "175"
+    },
+    {
+      "title": "Smart Refrigerator",
+      "description": "Wi-Fi connected, touch screen, voice control",
+      "price": 1499,
+      "id": "176"
+    },
+    {
+      "title": "Digital Photo Frame",
+      "description": "Wi-Fi enabled, 10-inch display, cloud storage",
+      "price": 149,
+      "id": "177"
+    },
+    {
+      "title": "Smart Plug",
+      "description": "Wi-Fi enabled, voice control, energy monitoring",
+      "price": 19,
+      "id": "178"
+    },
+    {
+      "title": "Electric Heated Mattress Pad",
+      "description": "Dual control, washable, multiple heat settings",
+      "price": 79,
+      "id": "179"
+    },
+    {
+      "title": "Smart Fish Tank",
+      "description": "Wi-Fi connected, automatic feeder, app control",
+      "price": 149,
+      "id": "180"
+    },
+    {
+      "title": "Digital Microscope",
+      "description": "USB connected, adjustable magnification, built-in LED",
+      "price": 59,
+      "id": "181"
+    },
+    {
+      "title": "Smart Water Bottle",
+      "description": "Hydration tracking, LED reminders, app integration",
+      "price": 59,
+      "id": "182"
+    },
+    {
+      "title": "Electric Heated Blanket",
+      "description": "Dual control, washable, multiple heat settings",
+      "price": 99,
+      "id": "183"
+    },
+    {
+      "title": "Smart Car Charger",
+      "description": "Bluetooth connected, dual USB ports, app integration",
+      "price": 29,
+      "id": "184"
+    },
+    {
+      "title": "Digital Air Fryer Oven",
+      "description": "10-in-1 functions, touch screen, stainless steel",
+      "price": 179,
+      "id": "185"
+    },
+    {
+      "title": "Smart Plant Sensor",
+      "description": "Bluetooth connected, soil moisture monitor, app integration",
+      "price": 39,
+      "id": "186"
+    },
+    {
+      "title": "Electric Heated Gloves",
+      "description": "Rechargeable, waterproof, multiple heat settings",
+      "price": 99,
+      "id": "187"
+    },
+    {
+      "title": "Smart Home Gym",
+      "description": "Wi-Fi connected, resistance training, app integration",
+      "price": 1499,
+      "id": "188"
+    },
+    {
+      "title": "Digital Meat Slicer",
+      "description": "Adjustable thickness, stainless steel, easy clean",
+      "price": 79,
+      "id": "189"
+    },
+    {
+      "title": "Smart Tennis Sensor",
+      "description": "Bluetooth connected, swing analysis, app integration",
+      "price": 99,
+      "id": "190"
+    },
+    {
+      "title": "Electric Foot Massager",
+      "description": "Shiatsu massage, heat function, adjustable intensity",
+      "price": 129,
+      "id": "191"
+    },
+    {
+      "title": "Smart Key Finder",
+      "description": "Bluetooth connected, app integration, replaceable battery",
+      "price": 19,
+      "id": "192"
+    },
+    {
+      "title": "Portable Blender",
+      "description": "USB rechargeable, BPA-free, travel-friendly",
+      "price": 39,
+      "id": "193"
+    },
+    {
+      "title": "Smart Doorbell",
+      "description": "Video recording, two-way audio, motion alerts",
+      "price": 149,
+      "id": "194"
+    },
+    {
+      "title": "Portable Power Bank",
+      "description": "20,000mAh capacity, dual USB ports, fast charging",
+      "price": 49,
+      "id": "195"
+    },
+    {
+      "title": "Smart Glasses",
+      "description": "Built-in speakers, touch control, UV protection",
+      "price": 199,
+      "id": "196"
+    },
+    {
+      "title": "Car Dash Cam",
+      "description": "1080p resolution, wide-angle lens, loop recording",
+      "price": 79,
+      "id": "197"
+    },
+    {
+      "title": "Wireless Charger Stand",
+      "description": "Fast charging, adjustable angle, sleek design",
+      "price": 49,
+      "id": "198"
+    },
+    {
+      "title": "Electric Bike",
+      "description": "20-mile range, pedal assist, foldable",
+      "price": 799,
+      "id": "199"
+    },
+    {
+      "title": "Smart Smoke Detector",
+      "description": "Wi-Fi connected, voice alerts, battery backup",
+      "price": 129,
+      "id": "200"
+    }
+  ]
+}

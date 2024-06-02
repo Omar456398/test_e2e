@@ -1,0 +1,38 @@
+.header-wrapper {
+  overflow: hidden;
+}
+.header {
+  background: cadetblue;
+  color: white;
+  font-size: 2em;
+  padding: 2em 17em;
+  text-align: center;
+  margin: 0px -16em;
+  margin-top: -6em;
+  padding-top: 8em;
+  border-radius: 100%;
+}
+.cart {
+  float: right;
+}
+.prev {
+  float: left;
+}
+.next {
+  float: right;
+}
+.prev,.next {
+  margin: 0.5em;
+  padding: 0.5em;
+  transition: all 0.2s;
+  border-radius: 0.25em;
+  border: 1px solid grey;
+  background-color: white;
+  color: rgb(33, 80, 82);
+  cursor: pointer;
+  font-size: 2em;
+  user-select: none;
+}
+.prev:hover, .next:hover {
+  background-color: rgb(234, 234, 234);
+}

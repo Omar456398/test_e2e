@@ -1,0 +1,25 @@
+
+.item {
+    display: flex;
+    margin: 0.5em;
+    padding: 0.5em;
+    border-radius: 0.25em;
+    border: 1px solid grey;
+    background-color: white;
+    color: rgb(33, 80, 82);
+    cursor: pointer;
+    user-select: none;
+  }
+
+.item:hover {
+    background-color: rgb(234, 234, 234);
+  }
+  .item-desc {
+    flex: 1;
+  }
+  .item-price {
+    width: 6em;
+    text-align: right;
+    font-weight: bold;
+  }
+  
