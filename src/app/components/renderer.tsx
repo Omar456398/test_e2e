@@ -24,8 +24,8 @@ export default function PageRenderer({
       data
         .filter(
           (item) =>
-            `${item.title} ${item.description}`.includes(
-              query.get("q") || ""
+            `${item.title} ${item.description}`.toLowerCase().includes(
+              query.get("q")?.toLowerCase() || ""
             ) &&
             item.price >= (Number(query.get("min")) || 0) &&
             item.price <= (Number(query.get("max")) || Infinity)

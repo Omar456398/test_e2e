@@ -11,6 +11,10 @@ export const getData = cache((async () => {
   return data.items
 }) as () => Promise<itemType[]>);
 
+export const metadata = {
+    title: "Shopping Cart"
+  }
+
 export default async function Home({
   params,
   searchParams,
